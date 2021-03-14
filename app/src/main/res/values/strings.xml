@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Kadai04_ih13a_08</string>
+    <string name="title">電卓</string>
+    <string name="name">高度情報学科3年 片山翼</string>
+    <string name="clear">C</string>
+    <string name="back">←</string>
+    <string name="divided">/</string>
+    <string name="multiplication">×</string>
+    <string name="addition">+</string>
+    <string name="subtraction">-</string>
+    <string name="plm">±</string>
+    <string name="dot">.</string>
+    <string name="equal">=</string>
+    <string name="one">1</string>
+    <string name="two">2</string>
+    <string name="three">3</string>
+    <string name="four">4</string>
+    <string name="five">5</string>
+    <string name="six">6</string>
+    <string name="seven">7</string>
+    <string name="eight">8</string>
+    <string name="nine">9</string>
+    <string name="zero">0</string>
+    <string name="katei">計算過程</string>
+
+
+</resources>
